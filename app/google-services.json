@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "353265153786",
+    "firebase_url": "https://project--8216254844200718879.firebaseio.com",
+    "project_id": "project--8216254844200718879",
+    "storage_bucket": "project--8216254844200718879.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353265153786:android:7aedf38ad81d1f8d",
+        "android_client_info": {
+          "package_name": "com.example.omar.googlesignindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353265153786-p0tgka9h5767jcbqegbg5omkrge3d49b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoxql9zuEAeTUK8881lDs-BCX-i2oxEfw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353265153786-p0tgka9h5767jcbqegbg5omkrge3d49b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
